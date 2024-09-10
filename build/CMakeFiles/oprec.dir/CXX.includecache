@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ichbinwil/folder_wildan/Modul-Oprec/modul_opencv/src/opencv_4_color_detect.cpp
+opencv4/opencv2/opencv.hpp
+-
+iostream
+-
+
