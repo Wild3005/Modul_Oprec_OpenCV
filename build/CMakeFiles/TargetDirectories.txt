@@ -1,3 +1,0 @@
-/home/ichbinwil/Documents/Modul_Oprec_OpenCV/build/CMakeFiles/oprec.dir
-/home/ichbinwil/Documents/Modul_Oprec_OpenCV/build/CMakeFiles/edit_cache.dir
-/home/ichbinwil/Documents/Modul_Oprec_OpenCV/build/CMakeFiles/rebuild_cache.dir
