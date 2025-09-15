@@ -2,9 +2,11 @@ cmake_minimum_required(VERSION 3.0)
 
 project( oprec )
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 find_package( OpenCV REQUIRED )
 
-add_executable( oprec src/opencv_4_color_detect.cpp )
+add_executable( oprec src/opencv_5_aruco.cpp )
 
 ##add_executable( oke1 src/progrobot.cpp )
 

@@ -4,7 +4,7 @@ using namespace std;
 using namespace cv;
 
 int main(){
-    Mat src = imread("/home/ichbinwil/coba_prog/src/rubik.png");
+    Mat src = imread("/home/ichbinwil/Documents/Modul_Oprec_OpenCV/rubik.png");
     if (src.empty()) {
         cout << "Could not open or find the image" << endl;
         return -1;

@@ -1,3 +1,3 @@
-/home/ichbinwil/folder_wildan/Modul-Oprec/modul_opencv/build/CMakeFiles/rebuild_cache.dir
-/home/ichbinwil/folder_wildan/Modul-Oprec/modul_opencv/build/CMakeFiles/edit_cache.dir
-/home/ichbinwil/folder_wildan/Modul-Oprec/modul_opencv/build/CMakeFiles/oprec.dir
+/home/ichbinwil/Documents/Modul_Oprec_OpenCV/build/CMakeFiles/oprec.dir
+/home/ichbinwil/Documents/Modul_Oprec_OpenCV/build/CMakeFiles/edit_cache.dir
+/home/ichbinwil/Documents/Modul_Oprec_OpenCV/build/CMakeFiles/rebuild_cache.dir
