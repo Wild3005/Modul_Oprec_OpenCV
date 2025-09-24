@@ -6,7 +6,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 find_package( OpenCV REQUIRED )
 
-add_executable( oprec src/opencv_5_aruco.cpp )
+add_executable( oprec src/kalibrasi_kamera.cpp )
 
 ##add_executable( oke1 src/progrobot.cpp )
 
